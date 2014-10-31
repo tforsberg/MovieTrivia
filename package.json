@@ -1,0 +1,11 @@
+﻿{
+    "name" : "MovieTrivia",
+    "description" : "Multiplayer Movie Quiz Game",
+    "version" : "0.1.0",
+    "private" : true,
+    "dependencies": {
+        "express": "3.x",
+        "socket.io": "0.9",
+        "node-rest-client": "1.4.1"
+    }
+}

@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Movie Trivia</title>
+    <meta charset="utf-8" />
+    <!--mobile scaling-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>
+    <link href="css/style.css" rel="stylesheet">
+
+</head>
+<body>
+    <div id="content">
+    </div>
+    <script id="intro-template" type="text/template">
+        <div class="titleWrapper">
+            <div class="title">
+                Movie Trivia
+            </div>
+            <div class="title2">
+                Your Name
+            </div>
+            <div class="info">
+                <input id="inputPlayerName" type="text" value="" />
+            </div>
+            <br />
+            <div class="title2">
+                Create....
+            </div>
+            <div class="buttons">
+                <button id="btnCreateGame" class="btn left btnMain">New Game</button>
+                <div style="clear:both"></div>
+            </div>
+            <br />
+            <div class="title2">
+                ...or join a Game ( ask your friend for the game id )
+            </div>
+            <div class="info">
+                <input id="inputGameId" type="text" />
+            </div>
+            <div class="buttons">
+                <button id="btnJoinGame" class="btn left btnMain">Join Now</button>
+            </div>
+        </div>
+    </script>
+    <script id="game-template" type="text/template">
+        <div id="activeGame">
+
+            <div id="readyBlock">
+                <div id="readyArea1" class="title2">Ready! - Give a friend the below code. As soon as they join the game with that code, the game will start. Good luck!!!</div>
+                <div id="spanNewGameCode" class="gameId title2">Error!</div>
+            </div>
+
+            <div id="playGame" style="margin-top:5px">
+                <div id="player1Score" class="playerScore">
+                    <span class="score">0</span>
+                    <span class="playerName" id="player1Id">Player 1</span>
+                </div>
+                <div id="player2Score" class="playerScore">
+                    <span class="playerName" id="player2Id">Player 2</span>
+                    <span class="score">0</span>
+                </div>
+                <div id="questionArea1" class="title2">
+
+                </div>
+                <div id="questionArea" class="title2">
+                </div>
+                <div id="AnswerBlock">
+                    <div>
+                        <input id="btnAnswer1" class="btn answerButton" type="button" value=" " />
+                        <input id="btnAnswer2" class="btn answerButton" type="button" value=" " />
+                    </div>
+                    <div>
+                        <input id="btnAnswer3" class="btn answerButton" type="button" value=" " />
+                        <input id="btnAnswer4" class="btn answerButton" type="button" value=" " />
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </script>
+
+    <script id="complete-template" type="text/template">
+        <div id="scores">
+            <div id="firstComplete" class="title2">First Score</div>
+            <div id="secondComplete" class="title2">
+                ...waiting for your competitor to complete
+            </div>
+            <div id="resut" class="button">
+                <input id="btnExit" type="button" value="Exit" class="btn btnMain" />
+            </div>
+        </div>
+    </script>
+
+
+
+    <script src="libs/jquery-1.11.1.min.js"></script>
+    <script src="libs/textFit.js"></script>
+    <script src="libs/fastclick.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="client.js"></script>
+
+
+</body>
+</html>

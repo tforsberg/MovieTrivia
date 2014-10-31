@@ -1,0 +1,9 @@
+C:\Users\Francois\Desktop\MovieTrivia\External\RESTService.Lib\RESTService.Lib\bin\Debug\RESTService.Lib.dll.config
+C:\Users\Francois\Desktop\MovieTrivia\External\RESTService.Lib\RESTService.Lib\bin\Debug\RESTService.Lib.dll
+C:\Users\Francois\Desktop\MovieTrivia\External\RESTService.Lib\RESTService.Lib\bin\Debug\RESTService.Lib.pdb
+C:\Users\Francois\Desktop\MovieTrivia\External\RESTService.Lib\RESTService.Lib\obj\Debug\RESTService.Lib.dll
+C:\Users\Francois\Desktop\MovieTrivia\External\RESTService.Lib\RESTService.Lib\obj\Debug\RESTService.Lib.pdb
+C:\Users\Francois\Desktop\MovieTrivia\External\RESTService.Lib\RESTService.Lib\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Francois\Desktop\MovieTrivia\External\RESTService.Lib\RESTService.Lib\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Francois\Desktop\MovieTrivia\External\RESTService.Lib\RESTService.Lib\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Francois\Desktop\MovieTrivia\External\RESTService.Lib\RESTService.Lib\obj\Debug\RESTService.Lib.csprojResolveAssemblyReference.cache

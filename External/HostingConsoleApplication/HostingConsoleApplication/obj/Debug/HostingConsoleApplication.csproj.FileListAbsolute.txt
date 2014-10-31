@@ -1,0 +1,11 @@
+C:\Users\Francois\Desktop\MovieTrivia\External\HostingConsoleApplication\HostingConsoleApplication\bin\Debug\HostingConsoleApplication.exe.config
+C:\Users\Francois\Desktop\MovieTrivia\External\HostingConsoleApplication\HostingConsoleApplication\bin\Debug\HostingConsoleApplication.exe
+C:\Users\Francois\Desktop\MovieTrivia\External\HostingConsoleApplication\HostingConsoleApplication\bin\Debug\HostingConsoleApplication.pdb
+C:\Users\Francois\Desktop\MovieTrivia\External\HostingConsoleApplication\HostingConsoleApplication\bin\Debug\RESTService.Lib.dll
+C:\Users\Francois\Desktop\MovieTrivia\External\HostingConsoleApplication\HostingConsoleApplication\bin\Debug\RESTService.Lib.pdb
+C:\Users\Francois\Desktop\MovieTrivia\External\HostingConsoleApplication\HostingConsoleApplication\obj\Debug\HostingConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Francois\Desktop\MovieTrivia\External\HostingConsoleApplication\HostingConsoleApplication\obj\Debug\HostingConsoleApplication.exe
+C:\Users\Francois\Desktop\MovieTrivia\External\HostingConsoleApplication\HostingConsoleApplication\obj\Debug\HostingConsoleApplication.pdb
+C:\Users\Francois\Desktop\MovieTrivia\External\HostingConsoleApplication\HostingConsoleApplication\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Francois\Desktop\MovieTrivia\External\HostingConsoleApplication\HostingConsoleApplication\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Francois\Desktop\MovieTrivia\External\HostingConsoleApplication\HostingConsoleApplication\bin\Debug\HtmlAgilityPack.xml
