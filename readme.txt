@@ -14,7 +14,7 @@ Visual Studio 2013
 //KNOWN ISSUES
 _______________________________________________________________________________________________________________________________
 
-After Exit - If you want to star a new game you need to first refresh (ctrl f5 ) the start page - else the questions doen not come up when joining a game
+After Exit - If you want to start a new game you need to first refresh (ctrl f5 ) the start page - else the questions do not come up when joining a game
 
 No Code comments
 
@@ -51,7 +51,7 @@ http://HostName:8888/
 
 
 //To HOST WCF SERVICE  
-webApplicationDir  \External\HostingConsoleApplication\HostingConsoleApplication\bin\Debug\HostingConsoleApplication.exe
+webApplicationDir\External\HostingConsoleApplication\HostingConsoleApplication\bin\Debug\HostingConsoleApplication.exe
 Keep Console open during execution
 
 
